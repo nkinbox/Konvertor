@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Konvertor", "Konvertor\Konvertor.vbproj", "{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8692BA-BD02-42CE-A6AE-1BBD9DFD3D6D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
